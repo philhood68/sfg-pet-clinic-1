@@ -12,7 +12,7 @@ import javax.persistence.MappedSuperclass;
 import java.io.Serializable;
 
 /**
- * Created by jt on 7/18/18.
+ * Created by jt on 7/18/18. test
  */
 @Getter
 @Setter
